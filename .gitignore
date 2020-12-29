@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.dist-info/
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.app
+*.elf
+*.exe
+*.out
+
+# CMake helpers
+*CMakeFiles*
+CMakeCache.txt
+*cmake_install.cmake*
+Makefile*
+
+# Editor files
+.idea/
+.vs/
+.vscode/
+cmake-build-*/
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+CMakeSettings.json
+
+# Miscellaneous system files
+.DS_Store
+*~
+._*
+.env
+Thumbs.db
+
+# Release files
+[Bb]in/
+[Bb]uild/
+[Dd]ebug/
+[Dd]ist/
+
+# IDA files
+*.id0
+*.id1
+*.id2
+*.idb
+*.i64
+*.nam
+*.til
+
+# Ghidra files
+*.gpr
+*.rep/
