@@ -1,3 +1,6 @@
 [submodule "scripts/asm-differ"]
 	path = scripts/asm-differ
 	url = git://github.com/simonlindholm/asm-differ.git
+[submodule "lib/nnsdk"]
+	path = lib/nnsdk
+	url = git://github.com/vbe0201/nnheaders.git

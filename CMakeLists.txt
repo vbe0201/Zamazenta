@@ -31,3 +31,5 @@ set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 ####################
 ## Subdirectories ##
 ####################
+
+add_subdirectory(lib)
